@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Archivos de build
+dist/
+
+# Logs
+npm-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
